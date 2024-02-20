@@ -1,4 +1,6 @@
 # Observability Stack Deployment Guide
+![image](https://github.com/Parikshit3105/Observability/assets/131677053/de9cd804-999a-4acd-a80e-e0e498984b32)
+
 
 This guide provides instructions for deploying an Observability Stack on AWS using Terraform. The stack includes Prometheus and Grafana services to monitor resources effectively.
 
